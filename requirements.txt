@@ -1,0 +1,6 @@
+requests
+Pillow
+termcolor
+unidecode
+beautifulsoup4
+pyscreenshot
