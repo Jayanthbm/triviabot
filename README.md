@@ -30,7 +30,7 @@ To easily install these
  
  1. First mirror the screen to pc. 
  2. Set the co-ordinates for the questions and options
- 3.  Run the script
+ 3. Run the script
  
  ### Screen Mirroring
  
@@ -41,11 +41,11 @@ To easily install these
  
  ### Setting Corodrinates
  
- -Edit line no 145 to set coridnates for the screenshot 
- -Edit line no 151 to crop the image for question
- -Edit line no 153 to crop the image for option 1
- -Edit line no 155 to crop the image for option 2
- -Edit line no 157 to crop the image for option 3
+ - Edit line no 145 to set coridnates for the screenshot 
+ - Edit line no 151 to crop the image for question
+ - Edit line no 153 to crop the image for option 1
+ - Edit line no 155 to crop the image for option 2
+ - Edit line no 157 to crop the image for option 3
  
  ### Run the Script
  
