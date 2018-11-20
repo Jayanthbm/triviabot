@@ -28,23 +28,25 @@ To easily install these
 
  ## Usage
  
- 1.First mirror the screen to pc. 
- 2.Set the co-ordinates for the questions and options
- 3. Run the script
+ 1. First mirror the screen to pc. 
+ 2. Set the co-ordinates for the questions and options
+ 3.  Run the script
  
- ##Screen Mirroring
+ ###Screen Mirroring
+ 
  For Screen Mirroring Use any of the below Softwares
- 1.ApowerMirror - https://www.apowersoft.com/phone-mirror
- 2.Vysor -http://vysor.io/
  
- ##Setting Corodrinates
+ 1. ApowerMirror - https://www.apowersoft.com/phone-mirror
+ 2. Vysor -http://vysor.io/
  
- Edit line no 145 to set coridnates for the screenshot 
- Edit line no 151 to crop the image for question
- Edit line no 153 to crop the image for option 1
- Edit line no 155 to crop the image for option 2
- Edit line no 157 to crop the image for option 3
+ ###Setting Corodrinates
  
- ##Run the Script
+ -Edit line no 145 to set coridnates for the screenshot 
+ -Edit line no 151 to crop the image for question
+ -Edit line no 153 to crop the image for option 1
+ -Edit line no 155 to crop the image for option 2
+ -Edit line no 157 to crop the image for option 3
+ 
+ ###Run the Script
  
  python3 bot.py
