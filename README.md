@@ -2,7 +2,7 @@
 A bot to help answer questions on trivia apps like Loco and Brainbaazi.
 This bot takes screenshot of the game on the phone and uses Google Vision API to read the questions and options.
 It automates the process of googling of the answers and gives the most likely answer!
-and the probable answer can be sent via **telegram** to your friends and family
+and the probable answer is displayed
 **It is not 100% accurate....**
 
 
@@ -27,3 +27,5 @@ To easily install these
      
  
  ## Usage
+ 
+python3 bot.py
