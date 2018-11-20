@@ -32,14 +32,14 @@ To easily install these
  2. Set the co-ordinates for the questions and options
  3.  Run the script
  
- ###Screen Mirroring
+ ### Screen Mirroring
  
  For Screen Mirroring Use any of the below Softwares
  
  1. ApowerMirror - https://www.apowersoft.com/phone-mirror
  2. Vysor -http://vysor.io/
  
- ###Setting Corodrinates
+ ### Setting Corodrinates
  
  -Edit line no 145 to set coridnates for the screenshot 
  -Edit line no 151 to crop the image for question
@@ -47,6 +47,6 @@ To easily install these
  -Edit line no 155 to crop the image for option 2
  -Edit line no 157 to crop the image for option 3
  
- ###Run the Script
+ ### Run the Script
  
  python3 bot.py
